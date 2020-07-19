@@ -37,6 +37,8 @@ public class Less1 {
         } else {
             System.out.println(Year + " год обыкновеный");
             System.out.println(Year + " гад обыкновеный");
+            System.out.println(Year + " гид обыкновеный");
+            System.out.println(Year + " гуд обыкновеный");
         }
     }
 }
